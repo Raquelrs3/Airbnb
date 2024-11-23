@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#requirements
+requirements.txt
+
+#pastas
+Data
+image
+streamlit
