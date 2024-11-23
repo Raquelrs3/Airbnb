@@ -1,5 +1,6 @@
 # Projeto de Análise e Previsão Airbnb
-![Rossmann_capa](https://user-images.githubusercontent.com/98356094/156845692-d2aaf2be-b4f1-43df-a7ee-2b9a719a5c80.jpeg)
+![capa-blog-estrategia-da-airbnb](https://github.com/user-attachments/assets/533c8380-06ae-4171-8ec5-c7ef881fa01b)
+
 
 Este é um projeto realizado com dados pessoais.
 
